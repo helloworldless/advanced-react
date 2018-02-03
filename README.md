@@ -8,4 +8,6 @@
 
 `yarn webpack`
 
+`yarn test`
+
 `Browse to localhost:8080`
