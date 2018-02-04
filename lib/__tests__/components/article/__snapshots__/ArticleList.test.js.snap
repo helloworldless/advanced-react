@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticleList matches snapshot 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "padding": 10,
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "fontWeight": 600,
+          "padding": 10,
+        }
+      }
+    />
+    <div
+      style={
+        Object {
+          "color": "gray",
+          "padding": 10,
+        }
+      }
+    >
+      Invalid Date
+    </div>
+    <div
+      style={
+        Object {
+          "padding": 10,
+        }
+      }
+    >
+      <a
+        href={undefined}
+      >
+         
+      </a>
+    </div>
+    <div
+      style={
+        Object {
+          "padding": 10,
+        }
+      }
+    />
+  </div>
+  <div
+    style={
+      Object {
+        "padding": 10,
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "fontWeight": 600,
+          "padding": 10,
+        }
+      }
+    />
+    <div
+      style={
+        Object {
+          "color": "gray",
+          "padding": 10,
+        }
+      }
+    >
+      Invalid Date
+    </div>
+    <div
+      style={
+        Object {
+          "padding": 10,
+        }
+      }
+    >
+      <a
+        href={undefined}
+      >
+         
+      </a>
+    </div>
+    <div
+      style={
+        Object {
+          "padding": 10,
+        }
+      }
+    />
+  </div>
+</div>
+`;
